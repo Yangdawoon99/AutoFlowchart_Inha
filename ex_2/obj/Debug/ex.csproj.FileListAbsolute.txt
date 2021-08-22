@@ -1,0 +1,40 @@
+C:\Users\didek\OneDrive\Desktop\ex\bin\Debug\ex.exe.config
+C:\Users\didek\OneDrive\Desktop\ex\bin\Debug\ex.exe
+C:\Users\didek\OneDrive\Desktop\ex\bin\Debug\ex.pdb
+C:\Users\didek\OneDrive\Desktop\ex\obj\Debug\ex.csprojAssemblyReference.cache
+C:\Users\didek\OneDrive\Desktop\ex\obj\Debug\ex.Form1.resources
+C:\Users\didek\OneDrive\Desktop\ex\obj\Debug\ex.Properties.Resources.resources
+C:\Users\didek\OneDrive\Desktop\ex\obj\Debug\ex.csproj.GenerateResource.cache
+C:\Users\didek\OneDrive\Desktop\ex\obj\Debug\ex.csproj.CoreCompileInputs.cache
+C:\Users\didek\OneDrive\Desktop\ex\obj\Debug\ex.exe
+C:\Users\didek\OneDrive\Desktop\ex\obj\Debug\ex.pdb
+C:\Users\didek\OneDrive\Desktop\ex (2)\bin\Debug\ex.exe.config
+C:\Users\didek\OneDrive\Desktop\ex (2)\bin\Debug\ex.exe
+C:\Users\didek\OneDrive\Desktop\ex (2)\bin\Debug\ex.pdb
+C:\Users\didek\OneDrive\Desktop\ex (2)\obj\Debug\ex.csprojAssemblyReference.cache
+C:\Users\didek\OneDrive\Desktop\ex (2)\obj\Debug\ex.Form1.resources
+C:\Users\didek\OneDrive\Desktop\ex (2)\obj\Debug\ex.Properties.Resources.resources
+C:\Users\didek\OneDrive\Desktop\ex (2)\obj\Debug\ex.csproj.GenerateResource.cache
+C:\Users\didek\OneDrive\Desktop\ex (2)\obj\Debug\ex.csproj.CoreCompileInputs.cache
+C:\Users\didek\OneDrive\Desktop\ex (2)\obj\Debug\ex.exe
+C:\Users\didek\OneDrive\Desktop\ex (2)\obj\Debug\ex.pdb
+C:\Users\didek\OneDrive\바탕 화면\ex_2\bin\Debug\ex.exe.config
+C:\Users\didek\OneDrive\바탕 화면\ex_2\bin\Debug\ex.exe
+C:\Users\didek\OneDrive\바탕 화면\ex_2\bin\Debug\ex.pdb
+C:\Users\didek\OneDrive\바탕 화면\ex_2\obj\Debug\ex.csprojAssemblyReference.cache
+C:\Users\didek\OneDrive\바탕 화면\ex_2\obj\Debug\ex.Form1.resources
+C:\Users\didek\OneDrive\바탕 화면\ex_2\obj\Debug\ex.Properties.Resources.resources
+C:\Users\didek\OneDrive\바탕 화면\ex_2\obj\Debug\ex.csproj.GenerateResource.cache
+C:\Users\didek\OneDrive\바탕 화면\ex_2\obj\Debug\ex.csproj.CoreCompileInputs.cache
+C:\Users\didek\OneDrive\바탕 화면\ex_2\obj\Debug\ex.exe
+C:\Users\didek\OneDrive\바탕 화면\ex_2\obj\Debug\ex.pdb
+C:\Users\didek\OneDrive\Desktop\ex_2\bin\Debug\ex.exe.config
+C:\Users\didek\OneDrive\Desktop\ex_2\bin\Debug\ex.exe
+C:\Users\didek\OneDrive\Desktop\ex_2\bin\Debug\ex.pdb
+C:\Users\didek\OneDrive\Desktop\ex_2\obj\Debug\ex.csprojAssemblyReference.cache
+C:\Users\didek\OneDrive\Desktop\ex_2\obj\Debug\ex.Form1.resources
+C:\Users\didek\OneDrive\Desktop\ex_2\obj\Debug\ex.Properties.Resources.resources
+C:\Users\didek\OneDrive\Desktop\ex_2\obj\Debug\ex.csproj.GenerateResource.cache
+C:\Users\didek\OneDrive\Desktop\ex_2\obj\Debug\ex.csproj.CoreCompileInputs.cache
+C:\Users\didek\OneDrive\Desktop\ex_2\obj\Debug\ex.exe
+C:\Users\didek\OneDrive\Desktop\ex_2\obj\Debug\ex.pdb
